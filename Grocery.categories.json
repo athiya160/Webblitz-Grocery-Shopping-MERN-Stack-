@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "6614dd5e9fc8b7e19ada83e4"
+  },
+  "categoryName": "Vegetables",
+  "categoryImage": "http://res.cloudinary.com/dymmundgz/image/upload/v1712643420/category/qkcvj0bnqzaatgklqf15.webp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614ddcc9fc8b7e19ada83ef"
+  },
+  "categoryName": "Fruits",
+  "categoryImage": "http://res.cloudinary.com/dymmundgz/image/upload/v1712643530/category/njukw49dfiml8xptbdzl.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614de089fc8b7e19ada83f2"
+  },
+  "categoryName": "Dairy Products",
+  "categoryImage": "http://res.cloudinary.com/dymmundgz/image/upload/v1712643591/category/ohfonyjyhqvojgdl8l9m.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614de399fc8b7e19ada83f7"
+  },
+  "categoryName": "Grains",
+  "categoryImage": "http://res.cloudinary.com/dymmundgz/image/upload/v1712643640/category/xxzbeixon3tnb1isxifg.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614de669fc8b7e19ada83fa"
+  },
+  "categoryName": "Dry fruits",
+  "categoryImage": "http://res.cloudinary.com/dymmundgz/image/upload/v1712643685/category/r213svkwuy79wde6fjw3.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614debc9fc8b7e19ada8401"
+  },
+  "categoryName": "Snacks",
+  "categoryImage": "http://res.cloudinary.com/dymmundgz/image/upload/v1712643770/category/cjajytwsj4uoq3n2ei5x.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614dee49fc8b7e19ada8404"
+  },
+  "categoryName": "oils",
+  "categoryImage": "http://res.cloudinary.com/dymmundgz/image/upload/v1712643811/category/bp54z0ix8fzzcg2fiklm.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614dfc79fc8b7e19ada840b"
+  },
+  "categoryName": "Soap",
+  "categoryImage": "http://res.cloudinary.com/dymmundgz/image/upload/v1712644037/category/mebictnyebttamnyjjyu.jpg",
+  "__v": 0
+}]

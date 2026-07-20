@@ -1,0 +1,894 @@
+[{
+  "_id": {
+    "$oid": "6676b748681d47104ba51009"
+  },
+  "name": "Ash gourd",
+  "description": "Ash gourd fruits are may be used as a laxative (helps constipation) and diuretic (increases urine production). Mixing fruit pulp with sugar helps in iron deficiency. The benefits of ash gourd juice might be enhanced when taken with ghee; it might amplify the speech, voice and overall intelligence of a person.",
+  "rate": 25,
+  "public_id": "products/b5vlv7ugdjsquoechlxm",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719056199/products/b5vlv7ugdjsquoechlxm.jpg",
+  "category": {
+    "$oid": "6614dd5e9fc8b7e19ada83e4"
+  },
+  "stocks": 499,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "0.5"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "1.5"
+    },
+    {
+      "$numberDecimal": "3"
+    },
+    {
+      "$numberDecimal": "2.5"
+    },
+    {
+      "$numberDecimal": "2"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T11:36:40.981Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676b7c4681d47104ba51026"
+  },
+  "name": "Broccoli",
+  "description": "It contains glucosinolates, which the body can convert into substances that fight cancer. Broccoli's anti-inflammatory, antioxidant, and fiber-rich properties support heart health. It can help lower cholesterol, maintain proper blood pressure, and promote cardiovascular health",
+  "rate": 20,
+  "public_id": "products/bgzc47dlosgqqf4glh1f",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719056322/products/bgzc47dlosgqqf4glh1f.jpg",
+  "category": {
+    "$oid": "6614dd5e9fc8b7e19ada83e4"
+  },
+  "stocks": 497.5,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "0.5"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "2"
+    },
+    {
+      "$numberDecimal": "3"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T11:38:44.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676b822681d47104ba51030"
+  },
+  "name": "Cucumber",
+  "description": "In botanical terms, the cucumber is classified as a pepo, a type of botanical berry with a hard outer rind and no internal divisions.",
+  "rate": 150,
+  "public_id": "products/zsrzphjqkjwty7rzufrb",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719056416/products/zsrzphjqkjwty7rzufrb.jpg",
+  "category": {
+    "$oid": "6614dd5e9fc8b7e19ada83e4"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "0.5"
+    },
+    {
+      "$numberDecimal": "2.5"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "3"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T11:40:18.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676b880681d47104ba5103a"
+  },
+  "name": "Potato",
+  "description": "They're rich in vitamin C, which is an antioxidant. Potatoes were a life-saving food source in early times because the vitamin C prevented scurvy. Another major nutrient in potatoes is potassium, an electrolyte which aids in the workings of our heart, muscles, and nervous system.",
+  "rate": 28,
+  "public_id": "products/fm5nirvei6qznnnosg8e",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719056510/products/fm5nirvei6qznnnosg8e.jpg",
+  "category": {
+    "$oid": "6614dd5e9fc8b7e19ada83e4"
+  },
+  "stocks": 499.5,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "2"
+    },
+    {
+      "$numberDecimal": "3"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T11:41:52.022Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676b8ff681d47104ba51044"
+  },
+  "name": "Capsicum",
+  "description": "Capsicum is a genus of flowering plants in the nightshade family Solanaceae, native to the Americas, cultivated worldwide for their edible fruit. Bell peppers, sweet peppers and some chili peppers belong to the Capsicum annuum species, making it the most cultivated species from the genus.",
+  "rate": 18,
+  "public_id": "products/sbyj4ncogxm8dpflanmg",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719056637/products/sbyj4ncogxm8dpflanmg.jpg",
+  "category": {
+    "$oid": "6614dd5e9fc8b7e19ada83e4"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "0.5"
+    },
+    {
+      "$numberDecimal": "2"
+    },
+    {
+      "$numberDecimal": "1.5"
+    },
+    {
+      "$numberDecimal": "3"
+    },
+    {
+      "$numberDecimal": "2.5"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T11:43:59.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676b9e1681d47104ba51066"
+  },
+  "name": "Turnip",
+  "description": "turnip, (Brassica rapa, variety rapa), hardy biennial plant in the mustard family (Brassicaceae), cultivated for its fleshy roots and tender growing tops. The turnip is thought to have originated in middle and eastern Asia and is grown throughout the temperate zone.",
+  "rate": 35,
+  "public_id": "products/fwguv9moconhksnwme55",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719056863/products/fwguv9moconhksnwme55.avif",
+  "category": {
+    "$oid": "6614dd5e9fc8b7e19ada83e4"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "0.5"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "1.5"
+    },
+    {
+      "$numberDecimal": "2"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T11:47:45.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676baea681d47104ba510be"
+  },
+  "name": "Green peas",
+  "description": "Pea is a pulse, vegetable or fodder crop, but the word often refers to the seed or sometimes the pod of this flowering plant species. Formerly 'Pisum sativum', it has been proposed to rename the species as Lathyrus oleraceus. Each pod contains several seeds, which can have green or yellow cotyledons when mature",
+  "rate": 50,
+  "public_id": "products/z2pkgyv1tol9uueh7qtz",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719057129/products/z2pkgyv1tol9uueh7qtz.jpg",
+  "category": {
+    "$oid": "6614dd5e9fc8b7e19ada83e4"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "0.5"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "1.5"
+    },
+    {
+      "$numberDecimal": "2"
+    },
+    {
+      "$numberDecimal": "3"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T11:52:10.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676bba4681d47104ba510dc"
+  },
+  "name": "Ginger",
+  "description": "Ginger is a flowering plant whose rhizome, ginger root or ginger, is widely used as a spice and a folk medicine. It is a herbaceous perennial which grows annual pseudostems about one meter tall, bearing narrow leaf blades.",
+  "rate": 25,
+  "public_id": "products/pb8xxmz7cfxvgmxznddl",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719057315/products/pb8xxmz7cfxvgmxznddl.avif",
+  "category": {
+    "$oid": "6614dd5e9fc8b7e19ada83e4"
+  },
+  "stocks": 40,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "0.5"
+    },
+    {
+      "$numberDecimal": "2.5"
+    },
+    {
+      "$numberDecimal": "1.5"
+    },
+    {
+      "$numberDecimal": "1"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T11:55:16.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676bc1a681d47104ba510e6"
+  },
+  "name": "Onion",
+  "description": ".onion is a special-use top-level domain name designating an anonymous onion service, which was formerly known as a \"hidden service\",",
+  "rate": 30,
+  "public_id": "products/fylt22rrisa9ysvoqtcf",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719057433/products/fylt22rrisa9ysvoqtcf.jpg",
+  "category": {
+    "$oid": "6614dd5e9fc8b7e19ada83e4"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "2"
+    },
+    {
+      "$numberDecimal": "3"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T11:57:14.981Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676bc63681d47104ba510eb"
+  },
+  "name": "Cauliflower",
+  "description": "Cauliflower is high in fiber and water. Both are important for preventing constipation, maintaining a healthy digestive tract, and lowering the risk of colon cancer. Studies have shown that dietary fiber may also help regulate the immune system and inflammation.",
+  "rate": 30,
+  "public_id": "products/pm74y33nh7v8ux3fikjb",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719057505/products/pm74y33nh7v8ux3fikjb.jpg",
+  "category": {
+    "$oid": "6614dd5e9fc8b7e19ada83e4"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "2"
+    },
+    {
+      "$numberDecimal": "3"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "2"
+    },
+    {
+      "$numberDecimal": "2.5"
+    },
+    {
+      "$numberDecimal": "3"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T11:58:27.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676bd2f681d47104ba51117"
+  },
+  "name": "Apple",
+  "description": "The apple itself is a pome (fleshy) fruit, in which the ripened ovary and surrounding tissue both become fleshy and edible.",
+  "rate": 150,
+  "public_id": "products/f0gxvpamqbbdxekpxrfp",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719057709/products/f0gxvpamqbbdxekpxrfp.avif",
+  "category": {
+    "$oid": "6614ddcc9fc8b7e19ada83ef"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "3"
+    },
+    {
+      "$numberDecimal": "3.5"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T12:01:51.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676bd89681d47104ba5111c"
+  },
+  "name": "Banana",
+  "description": "A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.",
+  "rate": 15,
+  "public_id": "products/lbkxk17fqfpja6wshhx5",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719057800/products/lbkxk17fqfpja6wshhx5.jpg",
+  "category": {
+    "$oid": "6614ddcc9fc8b7e19ada83ef"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "3"
+    },
+    {
+      "$numberDecimal": "3.5"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "2"
+    },
+    {
+      "$numberDecimal": "3"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T12:03:21.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676be63681d47104ba51121"
+  },
+  "name": "Mango",
+  "description": "Mangos are one of the most popular fruits in the world. They are the succulent, aromatic fruits of an evergreen tree (Mangifera indica), a member of the cashew family (Anacardiaceae) of flowering plants.",
+  "rate": 30,
+  "public_id": "products/wsbrdzxdiiynfuttizbh",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719058017/products/wsbrdzxdiiynfuttizbh.avif",
+  "category": {
+    "$oid": "6614ddcc9fc8b7e19ada83ef"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "3"
+    },
+    {
+      "$numberDecimal": "3.5"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "2"
+    },
+    {
+      "$numberDecimal": "3"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "0.5"
+    },
+    {
+      "$numberDecimal": "2.5"
+    },
+    {
+      "$numberDecimal": "2"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T12:06:59.114Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676bf25681d47104ba5113c"
+  },
+  "name": "Orange",
+  "description": "Oranges are a type of healthy, low calorie, highly nutritious citrus fruit. As part of a healthful and varied diet, oranges contribute to strong, clear skin and can help lower a person's risk of many conditions.",
+  "rate": 48,
+  "public_id": "products/sbu0emm6w65sygwxibtl",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719058212/products/sbu0emm6w65sygwxibtl.avif",
+  "category": {
+    "$oid": "6614ddcc9fc8b7e19ada83ef"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "2"
+    },
+    {
+      "$numberDecimal": "3"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T12:10:13.834Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676bf98681d47104ba5116d"
+  },
+  "name": "Grapes",
+  "description": "The nutrients in grapes may help protect against cancer, eye problems, cardiovascular disease, and other health conditions. Resveratrol is a key nutrient in grapes that may offer health benefits. Grapes are a good source of fiber, potassium, and a range of vitamins and other minerals",
+  "rate": 59,
+  "public_id": "products/m4mcozg9ywc806kfxjlu",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719058327/products/m4mcozg9ywc806kfxjlu.avif",
+  "category": {
+    "$oid": "6614ddcc9fc8b7e19ada83ef"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "2"
+    },
+    {
+      "$numberDecimal": "3"
+    },
+    {
+      "$numberDecimal": "1.5"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T12:12:08.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676bff5681d47104ba51172"
+  },
+  "name": "Pineapple",
+  "description": "Pineapple is said to have originated from South America and is rich in nutrients and antioxidants that can fight inflammation. Also, known as Ananas comosus, this healthy fruit has loads of health benefits that can aid in good digestion and boost your immunity. This fruit is also good for your hair, skin, and bones",
+  "rate": 59,
+  "public_id": "products/zaqzyvljww9sdvrffnpt",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719058419/products/zaqzyvljww9sdvrffnpt.avif",
+  "category": {
+    "$oid": "6614ddcc9fc8b7e19ada83ef"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "2"
+    },
+    {
+      "$numberDecimal": "3"
+    },
+    {
+      "$numberDecimal": "1.5"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "1.5"
+    },
+    {
+      "$numberDecimal": "2"
+    },
+    {
+      "$numberDecimal": "3"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T12:13:41.685Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676c04b681d47104ba5118d"
+  },
+  "name": "Watermelon",
+  "description": "It has a very high water content and provides nutrients like lycopene, citrulline, and vitamins A and C. Studies suggest that this sweet, red melon may even boost heart health, reduce muscle soreness, and decrease inflammation, though more research is needed.",
+  "rate": 58,
+  "public_id": "products/inrzs7erpkiq7nlhuhis",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719058506/products/inrzs7erpkiq7nlhuhis.avif",
+  "category": {
+    "$oid": "6614ddcc9fc8b7e19ada83ef"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "2"
+    },
+    {
+      "$numberDecimal": "3"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T12:15:07.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676c09b681d47104ba51192"
+  },
+  "name": "Papaya",
+  "description": "Papaya is a tropical fruit rich in vitamins A and C as well as other important nutrients like potassium, beta-carotene, and lycopene.",
+  "rate": 58,
+  "public_id": "products/f9be45wrqgdabvhvgd5d",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719058585/products/f9be45wrqgdabvhvgd5d.jpg",
+  "category": {
+    "$oid": "6614ddcc9fc8b7e19ada83ef"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "2"
+    },
+    {
+      "$numberDecimal": "3"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "2"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T12:16:27.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676c121681d47104ba511be"
+  },
+  "name": "Guava",
+  "description": "Guavas are tropical trees originating in Central America. Their fruits are oval in shape with light green or yellow skin and contain edible seeds. What's more, guava leaves are used as an herbal tea and the leaf extract as a supplement.",
+  "rate": 50,
+  "public_id": "products/rpogbyiheycb6lwepyoo",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719058720/products/rpogbyiheycb6lwepyoo.avif",
+  "category": {
+    "$oid": "6614ddcc9fc8b7e19ada83ef"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "2"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T12:18:41.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676c16c681d47104ba511c3"
+  },
+  "name": "Pomegranate",
+  "description": "They have powerful antioxidants that can help protect the health of your heart, kidneys, and gut microbiome",
+  "rate": 50,
+  "public_id": "products/q6cyrpyzdxvxuvcqcakk",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719058795/products/q6cyrpyzdxvxuvcqcakk.jpg",
+  "category": {
+    "$oid": "6614ddcc9fc8b7e19ada83ef"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "2"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "2"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T12:19:56.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676c34b681d47104ba51210"
+  },
+  "name": "Milk",
+  "description": "Milk is a white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for young mammals",
+  "rate": 25,
+  "public_id": "products/ywb1asmyo10q0qgzwxza",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719059274/products/ywb1asmyo10q0qgzwxza.avif",
+  "category": {
+    "$oid": "6614de089fc8b7e19ada83f2"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "0.5"
+    },
+    {
+      "$numberDecimal": "1"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T12:27:55.960Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676c3ac681d47104ba51215"
+  },
+  "name": "Cream",
+  "description": "Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization. In un-homogenized milk, the fat, which is less dense, eventually rises to the top. In the industrial production of cream, this process is accelerated by using centrifuges called \"separators\".",
+  "rate": 25,
+  "public_id": "products/i0ha3h5uvvk5hhhjecca",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719059371/products/i0ha3h5uvvk5hhhjecca.jpg",
+  "category": {
+    "$oid": "6614de089fc8b7e19ada83f2"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "0.5"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "0.5"
+    },
+    {
+      "$numberDecimal": "1.5"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-06-29T12:29:32.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66790e2e3a1c9c55d7dc1eea"
+  },
+  "name": "Butter",
+  "description": "Butter is a solid food most frequently made from cow's milk. Goat, buffalo, or sheep milk is also used to make butter. Since these are all mammals, butter is a dairy product. The dairy group is commonly the chief source of calcium in your diet.",
+  "rate": 120,
+  "public_id": "products/q3nbofau2ykzznik1gcn",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719209517/products/q3nbofau2ykzznik1gcn.jpg",
+  "category": {
+    "$oid": "6614de089fc8b7e19ada83f2"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "0.5"
+    },
+    {
+      "$numberDecimal": "1.5"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "2"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-07-01T06:11:58.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66790e993a1c9c55d7dc1eef"
+  },
+  "name": "Yogurt",
+  "description": "Yoghurt and fermented milks are produced by the fermentation and acidification of milk by viable bacteria, usually Lactobacillus bulgaricus and Streptococcus thermophilus. This process results in a thickened product with an increased shelf life.",
+  "rate": 125,
+  "public_id": "products/mn5vtkulz0xzlbfjx57g",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719209624/products/mn5vtkulz0xzlbfjx57g.jpg",
+  "category": {
+    "$oid": "6614de089fc8b7e19ada83f2"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "0.5"
+    },
+    {
+      "$numberDecimal": "1.5"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "2"
+    },
+    {
+      "$numberDecimal": "0.5"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "1.5"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-07-01T06:13:45.128Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66790ee23a1c9c55d7dc1ef4"
+  },
+  "name": "Cheese",
+  "description": "also packed with calcium. Calcium can help developing bones grow stronger and prevent osteoporosis as we age. Vitamins A, D, K, and zinc in cheese are also thought to contribute to bone health",
+  "rate": 100,
+  "public_id": "products/sr9hexhcuhflfadfwens",
+  "url": "http://res.cloudinary.com/dymmundgz/image/upload/v1719209698/products/sr9hexhcuhflfadfwens.jpg",
+  "category": {
+    "$oid": "6614de089fc8b7e19ada83f2"
+  },
+  "stocks": 500,
+  "kilogramOption": [
+    {
+      "$numberDecimal": "0.5"
+    },
+    {
+      "$numberDecimal": "1.5"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "2"
+    },
+    {
+      "$numberDecimal": "0.5"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "1.5"
+    },
+    {
+      "$numberDecimal": "0.5"
+    },
+    {
+      "$numberDecimal": "1"
+    },
+    {
+      "$numberDecimal": "1.5"
+    },
+    {
+      "$numberDecimal": "2"
+    }
+  ],
+  "numOfReviews": 0,
+  "date": {
+    "$date": "2024-07-01T06:14:58.540Z"
+  },
+  "__v": 0
+}]
